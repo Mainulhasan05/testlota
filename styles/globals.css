@@ -1,0 +1,49 @@
+/* .admin-dashboard {
+  background: linear-gradient(to bottom right, #000080, #800080);
+  background: -webkit-linear-gradient(to bottom right, #000080, #800080);
+  background: -moz-linear-gradient(to bottom right, #000080, #800080);
+  background: -o-linear-gradient(to bottom right, #000080, #800080);
+  background: -ms-linear-gradient(to bottom right, #000080, #800080);
+  
+}
+.admin-dashboard a, .admin-dashboard h1, .admin-dashboard span  {
+  color: white;
+}
+.circle-group {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .ticket-component{
+    background-color: #031434;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 1px;
+  }
+  .buy-now-container{
+    background-color: #0647c0;
+  }
+
+
+  .ticket-btn {
+    background-color: transparent;
+  
+    border: 2px solid gray;
+    
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  #home{
+    margin: 0;
+    padding: 0;
+  } */
